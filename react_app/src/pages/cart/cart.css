@@ -3,6 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: rgb(102, 135, 166);
   }
   
   .cartItem {
@@ -41,3 +42,5 @@
     margin: 10px;
     cursor: pointer;
   }
+
+  
